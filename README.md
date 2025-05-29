@@ -1,4 +1,5 @@
 💰 Personal Finance Dashboard
+
 A powerful, interactive Streamlit web app to manage personal finances — upload your bank statements, categorize transactions, set monthly budgets, and visualize your spending trends over time.
 
 ✨ Features
