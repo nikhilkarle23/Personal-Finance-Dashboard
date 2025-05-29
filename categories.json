@@ -1,0 +1,121 @@
+{
+  "Uncategorized": [],
+  "Shopping": [
+    "Shop",
+    "AMAZON.IN",
+    "FLIPKART",
+    "MYNTRA",
+    "AJIO",
+    "DMART",
+    "BIG BAZAAR",
+    "SHOPPERS STOP",
+    "RELIANCE TRENDS"
+  ],
+  "Groceries": [
+    "MARKET",
+    "DMART",
+    "BIG BAZAAR",
+    "MORE SUPERMARKET",
+    "SPENCERS",
+    "RELIANCE FRESH",
+    "NATURE'S BASKET",
+    "STAR BAZAAR"
+  ],
+  "Travel": [
+    "IRCTC",
+    "INDIGO",
+    "GO FIRST",
+    "AIR INDIA",
+    "VISTARA",
+    "OLA",
+    "UBER",
+    "MAKE MY TRIP",
+    "GOIBIBO",
+    "YATRA"
+  ],
+  "Food & Dining": [
+    "ZOMATO",
+    "SWIGGY",
+    "DOMINOS",
+    "PIZZA HUT",
+    "MCDONALD'S",
+    "KFC",
+    "FOODPANDA",
+    "BARISTA",
+    "CCD",
+    "STARBUCKS"
+  ],
+  "Utilities": [
+    "BESCOM",
+    "MAHADISCOM",
+    "TANGEDCO",
+    "BSES",
+    "TATA POWER",
+    "MSEB",
+    "MGL",
+    "IGL",
+    "WATER BILL"
+  ],
+  "Recharge & Bills": [
+    "AIRTEL",
+    "JIO",
+    "VI",
+    "BSNL",
+    "BILLDESK",
+    "PAYTM POSTPAID",
+    "PHONEPE",
+    "CRED",
+    "MOBIKWIK"
+  ],
+  "Rent & Housing": [
+    "NO BROKER",
+    "NESTAWAY",
+    "PROP TIGER",
+    "HOUSING.COM",
+    "RENT PAYMENT"
+  ],
+  "Entertainment & Subscriptions": [
+    "NETFLIX",
+    "AMAZON PRIME",
+    "HOTSTAR",
+    "SONY LIV",
+    "SPOTIFY",
+    "ZEE5",
+    "GAANA",
+    "WYNK",
+    "BOOKMYSHOW"
+  ],
+  "Bank Charges": [
+    "NEFT CHARGE",
+    "IMPS CHARGE",
+    "RTGS CHARGE",
+    "BANK CHARGES",
+    "SMS CHARGES",
+    "DEBIT CARD FEE",
+    "ATM FEE",
+    "PENALTY"
+  ],
+  "Insurance": [
+    "INSURANCE",
+    "LIC",
+    "ICICI PRUDENTIAL",
+    "HDFC LIFE",
+    "SBI LIFE",
+    "BAJAJ ALLIANZ",
+    "TATA AIA",
+    "MAX LIFE",
+    "STAR HEALTH"
+  ],
+  "Investments": [
+    "GROWW",
+    "Zerodha",
+    "UPSTOX",
+    "SBI MUTUAL",
+    "ICICI MF",
+    "HDFC MF",
+    "COIN",
+    "MONEY CONTROL"
+  ],
+  "Salary": ["SALARY", "NEFT SAL", "CREDIT SALARY", "SAL CREDIT"],
+  "Others": ["UPI TRANSFER", "CASH DEPOSIT", "ATM WITHDRAWAL"]
+}
